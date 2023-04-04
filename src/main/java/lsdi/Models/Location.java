@@ -1,4 +1,4 @@
-package Models;
+package lsdi.Models;
 
 public class Location {
     private double latitude;
